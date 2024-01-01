@@ -1,0 +1,158 @@
+.container{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.new{
+    border-color:rgb(227, 227, 227);
+    border-style:solid;
+    border-width:1px;
+}
+.new i{
+    border:1px solid rgb(7, 154, 173);
+    background-color:rgb(7, 154, 173);
+   width:30px;
+   height:28px;
+    color:white;
+}
+.new .newfirst{
+    margin-left:40px;
+    display:flex;
+    margin-top:20px;
+}
+.new button{
+    margin:20px;
+    margin-left:10px;
+    background-color: rgb(7, 154, 173);
+    color:white;
+    border-color:transparent;
+    width:1180px;
+    border-radius:2px;
+    height:30px;
+}
+.newfirst input{
+    width:1150px;
+    height:25px;
+}
+.list h1{
+    text-transform:capitalize;
+    font-size:30px;
+}
+.list button{
+    background-color:rgb(7, 154, 173);
+    color:white;
+    border-color:transparent;
+    border-radius:6px;
+    width: 220px;
+    height:40px;
+}
+.list .buttons{
+display:flex;
+justify-content:space-between;
+}
+.texts .text1{
+    border-color:rgb(227, 227, 227);
+    border-style:solid;
+    border-width:1px;
+    display:flex;
+    margin-top:30px;
+}
+.text1 p{
+    margin-left:10px;
+    color:rgb(225, 32, 74);
+    text-decoration:line-through;
+}
+.textend #a{
+    color:rgb(243, 243, 75);
+}
+.textend #b{
+    color:rgb(225, 32, 74);
+}
+.text2 p{
+    margin-left:10px;
+}
+.text3 p{
+    margin-left:10px;
+}
+.text4 p{
+    margin-left:10px;
+}
+.text5 p{
+    margin-left:10px;
+}
+.text1 .textend{
+    margin-left:1030px;
+    margin-top:15px;
+}
+.textend i{
+    margin:5px;
+}
+.text2 .textend{
+    margin-left:1060px;
+    margin-top:15px;
+}
+.textend i{
+    margin:5px;
+}
+.text3 .textend{
+    margin-left:1101px;
+    margin-top:15px;
+}
+.textend i{
+    margin:5px;
+}
+.text4 .textend{
+    margin-left:1035px;
+    margin-top:15px;
+}
+.textend i{
+    margin:5px;
+}
+.text5 .textend{
+    margin-left:1061px;
+    margin-top:15px;
+}
+.textend i{
+    margin:5px;
+}
+.texts .text2{
+    border-color:rgb(227, 227, 227);
+    border-style:solid;
+    border-width:1px;
+    display:flex;
+    margin-top:10px;
+}
+.texts .text3{
+    border-color:rgb(227, 227, 227);
+    border-style:solid;
+    border-width:1px;
+    display:flex;
+    margin-top:10px;
+}
+.texts .text4{
+    border-color:rgb(227, 227, 227);
+    border-style:solid;
+    border-width:1px;
+    display:flex;
+    margin-top:10px;
+}
+.texts .text5{
+    border-color:rgb(227, 227, 227);
+    border-style:solid;
+    border-width:1px;
+    display:flex;
+    margin-top:10px;
+}
+.footer button{
+    border-color:transparent;
+    background-color:rgb(225, 32, 74);
+    color:white;
+    width:520px;
+    height:40px;
+    border-radius:6px;
+}
+.footer .buttons2{
+    display:Flex;
+    margin-top:30px;
+    justify-content:space-between;
+}
